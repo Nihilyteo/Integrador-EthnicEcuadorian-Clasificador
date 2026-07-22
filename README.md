@@ -314,13 +314,11 @@ Proyecto desarrollado por:
 | 🧑‍💻 **Michael Merino** |
 | 🧑‍💻 **Erick Morales** |
 
-> 💡 *Tip: pueden convertir cada nombre en un enlace a su perfil de GitHub, por ejemplo: `[Mateo Espinosa](https://github.com/usuario)`.*
-
 ## 📄 Licencia y Uso Responsable
 
 > **Dataset:** las imágenes fueron recopiladas con el consentimiento informado de cada participante, exclusivamente para **fines académicos** (investigación, publicaciones científicas y repositorios digitales educativos). Este proyecto respeta ese alcance: es un ejercicio educativo de comparación de técnicas de Visión por Computador y Machine Learning, no un sistema de decisión sobre personas reales.
 
-**Código:** este repositorio se comparte con fines educativos como parte de un proyecto universitario. Si desean una licencia de software formal (MIT, Apache 2.0, GPL, etc.), pueden añadir un archivo `LICENSE` — [choosealicense.com](https://choosealicense.com) es un buen punto de partida para elegir la que mejor se ajuste al repositorio.
+**Código:** este repositorio se comparte con fines educativos como parte de un proyecto universitario.
 
 ---
 
